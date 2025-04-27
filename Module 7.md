@@ -256,11 +256,12 @@ int main()
 ```
 
 Output:
+
+
+
 ![Screenshot (208)](https://github.com/user-attachments/assets/59937f15-ad65-4fac-a242-43c28a1b1483)
 
 
-Result:
-Thus, the program is verified successfully
 
 
 
