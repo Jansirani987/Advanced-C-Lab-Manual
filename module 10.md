@@ -66,6 +66,7 @@ Algorithm:
 4.	Call the insert function and perform other linked list operations as needed.
  
 Program:
+
 ```
 struct Node{
     char data; 
@@ -98,8 +99,10 @@ void insert(char data)
 Output:
 
  ![Screenshot (221)](https://github.com/user-attachments/assets/e56e47a8-8d31-490d-b6d9-451dd8b3840d)
+ 
 
 Result:
+
 Thus, the program to insert a node in a linked list is verified successfully.
 
 
@@ -138,7 +141,7 @@ void display()
     }
 }
      
-
+```
 
 Output:
 
