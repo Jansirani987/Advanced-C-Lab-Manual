@@ -1,4 +1,3 @@
-![Screenshot (236)](https://github.com/user-attachments/assets/1e98b724-5d59-4cee-bb54-7e8edcac5882)
 
 EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 Aim:
@@ -264,8 +263,6 @@ int main()
 Output:
 
 ![Screenshot (236)](https://github.com/user-attachments/assets/b17bc7cf-1c7b-40e2-a6d6-52e356e79f80)
-
-
 
 Result:
 
